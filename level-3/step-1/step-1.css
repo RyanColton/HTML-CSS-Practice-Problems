@@ -4,7 +4,10 @@
     width: 100%;
     height: 530px;
     position: relative;
-
+    background-image: url(https://raw.githubusercontent.com/RyanColton/HTML-CSS-Practice-Problems/master/level-3/img/Background.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
 
 }
 
@@ -73,4 +76,3 @@
 .shop-icon {
     width: 350px;
 }
-

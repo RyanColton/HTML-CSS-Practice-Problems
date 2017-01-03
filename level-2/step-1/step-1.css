@@ -23,12 +23,17 @@
 .menu {
     width: 100px;
     height: 40px;
+    display: inline-block;
+    position: absolute;
+    left: 10px;
+    top: 10px;
     background: #536A63;
 }
 
 .logo {
-    width: 300px;
+    width: 200px;
     height: 40px;
+    display:inline-block;
     margin-top: 10px;
     background: #536A63;
 
@@ -38,7 +43,11 @@
 .sign-in {
     width: 100px;
     height: 40px;
+    display: inline-block;
     background: #536A63;
+    right: 10px;
+    top: 10px;
+    position: absolute;
 
 }
 
@@ -49,6 +58,7 @@
     height: 60px;
     left: 22%;
     background: #536A63;
-
+    position: absolute;
+    bottom: -30px;
 
 }
